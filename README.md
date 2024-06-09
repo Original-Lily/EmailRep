@@ -23,7 +23,7 @@ A Basic CLI email interaction tool utilizing the schedule, smtplib, imaplib & em
 
 4. Run the program via:
    ```
-   python email_manager.py
+   python main.py
    ```
    
 # Usage
